@@ -151,6 +151,10 @@ public class Empleado {
     public void setTipoIRPF(double tipoIRPF) {
         this.tipoIRPF = tipoIRPF;
     }
+    /**
+     * 
+     * @return variable tipoIRPF
+     */
 
     //métodos get/set para el atributo static
     public static double getPagoPorHoraExtra() {
