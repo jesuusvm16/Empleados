@@ -190,6 +190,10 @@ public class Empleado {
     public double calcularSueldoBruto(){
         return sueldoBase + calcularImporteHorasExtras();
     }
+    /**
+     * 
+     * @return sueldoBruto
+     */
    
     //calcular el importe de las retencion por IRPF
     public double calcularRetencionIrpf(){
