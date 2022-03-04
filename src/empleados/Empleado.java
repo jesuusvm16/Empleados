@@ -238,4 +238,8 @@ public class Empleado {
         sb.append(numeroHijos);
         return  sb.toString();
     }
+    /**
+     * 
+     * @return datosDeUnTrabajador
+     */
 }//Fin de la Clase Empleado
