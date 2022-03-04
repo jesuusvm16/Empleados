@@ -5,6 +5,19 @@
  */
 package empleados;
 
+/**
+ * 
+ * @author jesus
+ */
+
+/**
+ * <h2> Una clase para atribuir los métodos de empleado </h2>
+ * @version 1.0, 04/03/2022
+ * @since 04-03-2022
+ */
+
+
+
 //Clase Empleado
 public class Empleado {
    
