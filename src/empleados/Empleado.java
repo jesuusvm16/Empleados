@@ -215,6 +215,10 @@ public class Empleado {
     public double calcularSueldo(){
         return calcularSueldoBruto() - calcularRetencionIrpf();
     }
+    /**
+     * 
+     * @return importeACobrar
+     */
 
     //mostrar los datos de un trabajador
     @Override
