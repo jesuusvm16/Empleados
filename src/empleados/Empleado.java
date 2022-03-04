@@ -207,7 +207,10 @@ public class Empleado {
         }
         return calcularSueldoBruto() * tipo / 100;
     }
-   
+   /**
+    * 
+    * @return retencionIRPF
+    */
     //calcular el importe liquido a cobrar
     public double calcularSueldo(){
         return calcularSueldoBruto() - calcularRetencionIrpf();
