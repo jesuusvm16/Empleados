@@ -172,7 +172,10 @@ public class Empleado {
     public static void setPagoPorHoraExtra(double pagoPorHoraExtra) {
         Empleado.pagoPorHoraExtra = pagoPorHoraExtra;
     }
-   
+   /**
+    * 
+    * @return variable pagoPorHorasExtras
+    */
    
     //calcular el importe de las horas extra
     public double calcularImporteHorasExtras(){
