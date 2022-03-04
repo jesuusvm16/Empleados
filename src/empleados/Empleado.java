@@ -164,6 +164,10 @@ public class Empleado {
     public static double getPagoPorHoraExtra() {
         return pagoPorHoraExtra;
     }
+    /**
+     * 
+     * @param pagoPorHoraExtra 
+     */
 
     public static void setPagoPorHoraExtra(double pagoPorHoraExtra) {
         Empleado.pagoPorHoraExtra = pagoPorHoraExtra;
