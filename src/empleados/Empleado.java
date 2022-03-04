@@ -181,6 +181,10 @@ public class Empleado {
     public double calcularImporteHorasExtras(){
         return horasExtras * pagoPorHoraExtra;
     }
+    /**
+     * 
+     * @return CalcularElImportePorHorasExtra
+     */
    
     //calcular el sueldo bruto
     public double calcularSueldoBruto(){
