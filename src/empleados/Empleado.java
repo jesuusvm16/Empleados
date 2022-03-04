@@ -71,6 +71,10 @@ public class Empleado {
     public void setHorasExtras(int horasExtras) {
         this.horasExtras = horasExtras;
     }
+    /**
+     * 
+     * @return variable Horas extras 
+     */
 
     public String getNif() {
         return nif;
