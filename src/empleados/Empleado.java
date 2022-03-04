@@ -95,6 +95,10 @@ public class Empleado {
     public String getNombre() {
         return nombre;
     }
+    /**
+     * 
+     * @param nombre 
+     */
 
     public void setNombre(String nombre) {
         this.nombre = nombre;
