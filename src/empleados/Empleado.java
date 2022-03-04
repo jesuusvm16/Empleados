@@ -119,6 +119,10 @@ public class Empleado {
     public void setNumeroHijos(int numeroHijos) {
         this.numeroHijos = numeroHijos;
     }
+    /**
+     * 
+     * @return variable numeros hijos
+     */
 
     public double getSueldoBase() {
         return sueldoBase;
