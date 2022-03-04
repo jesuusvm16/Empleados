@@ -51,6 +51,10 @@ public class Empleado {
     public char getCasado() {
         return casado;
     }
+    /**
+     * 
+     * @param casado variable
+     */
 
     public void setCasado(char casado) {
         this.casado = casado;
