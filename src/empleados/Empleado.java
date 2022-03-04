@@ -103,6 +103,10 @@ public class Empleado {
     public void setNombre(String nombre) {
         this.nombre = nombre;
     }
+    /**
+     * 
+     * @return variable nombre
+     */
 
     public int getNumeroHijos() {
         return numeroHijos;
