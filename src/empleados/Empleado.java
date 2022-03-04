@@ -143,6 +143,10 @@ public class Empleado {
     public double getTipoIRPF() {
         return tipoIRPF;
     }
+    /**
+     * 
+     * @param tipoIRPF 
+     */
 
     public void setTipoIRPF(double tipoIRPF) {
         this.tipoIRPF = tipoIRPF;
