@@ -111,6 +111,10 @@ public class Empleado {
     public int getNumeroHijos() {
         return numeroHijos;
     }
+    /**
+     * 
+     * @param numeroHijos 
+     */
 
     public void setNumeroHijos(int numeroHijos) {
         this.numeroHijos = numeroHijos;
