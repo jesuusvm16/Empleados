@@ -135,6 +135,10 @@ public class Empleado {
     public void setSueldoBase(double sueldoBase) {
         this.sueldoBase = sueldoBase;
     }
+    /**
+     * 
+     * @return variable sueldoBase 
+     */
 
     public double getTipoIRPF() {
         return tipoIRPF;
