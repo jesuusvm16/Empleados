@@ -79,6 +79,10 @@ public class Empleado {
     public String getNif() {
         return nif;
     }
+    /**
+     * 
+     * @param nif 
+     */
 
     public void setNif(String nif) {
         this.nif = nif;
