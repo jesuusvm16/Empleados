@@ -35,11 +35,19 @@ public class Empleado {
     }
 
     //Constructor con un parámetro
+    /**
+     * 
+     * @param nif cadena de empleado
+     */
     public Empleado(String nif) {
         this.nif = nif;
     }
 
     //Métodos get/set
+    /**
+     * 
+     * @return el empleado casado
+     */
     public char getCasado() {
         return casado;
     }
