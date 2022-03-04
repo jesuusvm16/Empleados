@@ -127,6 +127,10 @@ public class Empleado {
     public double getSueldoBase() {
         return sueldoBase;
     }
+    /**
+     * 
+     * @param sueldoBase 
+     */
 
     public void setSueldoBase(double sueldoBase) {
         this.sueldoBase = sueldoBase;
