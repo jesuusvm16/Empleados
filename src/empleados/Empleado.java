@@ -63,6 +63,10 @@ public class Empleado {
     public int getHorasExtras() {
         return horasExtras;
     }
+    /**
+     * 
+     * @param horasExtras 
+     */
 
     public void setHorasExtras(int horasExtras) {
         this.horasExtras = horasExtras;
