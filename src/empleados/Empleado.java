@@ -157,6 +157,10 @@ public class Empleado {
      */
 
     //métodos get/set para el atributo static
+    /**
+     * 
+     * @return métodos get set
+     */
     public static double getPagoPorHoraExtra() {
         return pagoPorHoraExtra;
     }
